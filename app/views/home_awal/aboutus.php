@@ -1,0 +1,5 @@
+<div class="container">
+    <h1 class="text-center my-4">Jobility</h1>
+    <p class="fs-4">Jobility adalah sebuah website yang menyediakan info tentang berbagai lowongan kerja bagi disabilitas. Untuk dapat mempermudah mereka dalam mencari pekerjaan sesuaai dengan keahlian dan keunikan mereka masing masing. Dan mendukung tujuan dari SDGs yauti pekerjaan yang layak dan pertumbuhan ekonomi  maka website ini akan memeberikan info tentang lowongan dan pekerjaan yang layak baik bagi orang dengan kebutuhan khusu atau tidak.</p>
+    <p class="fs-4">Di sini terdapat beberapa fitur yang dapat membantu kaum disabilitas dalam mendapatkan pekerjaan yang sesuai dengan keahliannya. Yang pertama ada fitur info loker yang menjadi tempat untuk para pencari pekerjaan, yang kedua ada fitur info perusahaan yang menyediakan berbagai informasi terkait dengan perusahaan tersebut, dan yang ketiga ada fitur info pelatihan yang menyediakan info terkait dengan pelatihan prakerja yang dapat dilaksanakan secara online maupun offline khusu bagi kaum disabilitas untuk dapat menunjang kemampuan mereka.</p>
+</div>
