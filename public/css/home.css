@@ -1,0 +1,28 @@
+.loker {
+  background-color: rgb(241, 241, 241, 0.5);
+}
+
+.btn-lamar {
+  background-color: #04316a;
+  color: white;
+}
+
+.btn-search {
+  background-color: #04316a;
+  color: #ffffff;
+  transition: 0.3s;
+}
+
+.btn-search:hover {
+  background-color: #044aa5;
+  color: white;
+}
+
+/* .p1 {
+  color: #04316a;
+} */
+
+/* .btn-detail {
+  border-radius: 5px;
+  color: #04316a;
+} */

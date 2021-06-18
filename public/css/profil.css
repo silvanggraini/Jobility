@@ -1,0 +1,20 @@
+.form-profil {
+  color: #d3d3d3;
+  border: 1px solid rgb(194, 194, 194);
+  border-radius: 10px;
+}
+
+.label {
+  color: black;
+}
+
+.btn-profil {
+  background-color: #04316a;
+  color: white;
+  transition: 0.3s;
+}
+
+.btn-profil:hover {
+  background-color: #004bad;
+  color: white;
+}

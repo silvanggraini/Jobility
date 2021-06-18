@@ -1,0 +1,77 @@
+body {
+  position: relative;
+  background-color: rgb(4, 49, 106, 0.2);
+}
+
+.tebel-sedang {
+  font-weight: 500;
+}
+
+/* .image {
+  display: flex;
+  top: 0;
+  right: 0;
+} */
+
+.desc {
+  max-width: 400px;
+}
+
+.judul1 {
+  color: #04316a;
+}
+
+.hr {
+  height: 5px;
+  width: 75px;
+  border-radius: 50px;
+  background-color: #04316a;
+}
+
+.button {
+  background-color: #ffffff;
+  border: none;
+  color: #04316a;
+  padding: 10px 48px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  transition: 0.3s;
+}
+
+.button:hover {
+  background-color: rgb(21, 68, 131);
+  color: #ffffff;
+}
+
+p {
+  color: #04316a;
+}
+
+.bg-custom {
+  width: 80px;
+  border: 1px solid #04316a;
+  color: #04316a;
+  margin-top: 4px;
+  padding: 3px 60px;
+  text-align: center;
+  transition: 0.2s;
+}
+
+.bg-custom:hover {
+  font-weight: 500;
+  color: #04316a;
+}
+
+.gambar {
+  display: none;
+}
+
+.img {
+  width: 550px;
+  z-index: -1;
+}
+
+.link-navbar {
+  color: #04316a;
+}

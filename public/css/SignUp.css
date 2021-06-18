@@ -1,0 +1,42 @@
+.sebelah-kiri {
+  background-image: url(../img/background.svg);
+  /* background-color: #04316a; */
+  padding-top: 15rem;
+  padding-bottom: 15rem;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.btn-signup {
+  background-color: #04316a;
+  color: white;
+  transition: 0.3s;
+}
+
+.btn-signup:hover {
+  background-color: rgb(4, 66, 146);
+  color: white;
+}
+
+.create-account {
+  color: #04316a;
+}
+
+.welcome-back {
+  color: white;
+  /* font-weight: bold; */
+  font-size: 55px;
+}
+
+p {
+  color: white;
+  font-size: 14px;
+}
+
+.p1 {
+  margin-top: -14px;
+}
+
+.kotak {
+  background-color: #eaeaee;
+}
